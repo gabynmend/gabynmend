@@ -2,7 +2,7 @@
 <p>
  Me chamo <strong>Gaby Nunes</strong> e sou estudante da área de Ciência da Computação.
 
-  - 🍨 Amo coisas rosas e T.I.
+  - 🎀 Amo coisas rosas e T.I.
 
   - 💻 Postarei meus códigos aqui para acompanhar o meu progresso na faculdade e afins!
 </p>
