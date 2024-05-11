@@ -13,9 +13,10 @@
 
 <!-- GithubStats -->
 ![Gaby GitHub stats](https://github-readme-stats.vercel.app/api?username=gabynmend&_icons=true&theme=jolly)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabynmend&_icons=true&theme=jolly&layout=donut)](https://github.com/gabynmend/github-readme-stats)
 
 <!-- GIF -->
 <div>
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" width="300px" height="170px"
+  <img src="https://i.pinimg.com/originals/b1/ad/ba/b1adba819abf70d9ea98d4e65ea9f2a5.gif" alt="Imagem" width="180px" height="150px" align="right"
 </p>
 </div>
