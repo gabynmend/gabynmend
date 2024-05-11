@@ -4,7 +4,7 @@
 
   - 🍨 Amo coisas rosas e T.I.
 
-  - 💻 Postarei meus códigos aqui para acompanhar o meu progresso.
+  - 💻 Postarei meus códigos aqui para acompanhar o meu progresso na faculdade e afins!
 </p>
 
 <!-- Links -->
