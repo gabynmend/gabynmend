@@ -9,7 +9,7 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabiee_y/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]([https://www.](https://open.spotify.com/user/31sttfp3urrentv42djshrl7wf3m?si=-abZdzHxThyP7Y9QrWxGvw )
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31sttfp3urrentv42djshrl7wf3m?si=-abZdzHxThyP7Y9QrWxGvw )
 
 <!-- GithubStats -->
 ![Gaby GitHub stats](https://github-readme-stats.vercel.app/api?username=gabynmend&_icons=true&theme=jolly)
