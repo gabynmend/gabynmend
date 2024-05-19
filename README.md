@@ -1,10 +1,10 @@
 <!-- Presentation -->
 <p>
- Me chamo <b>Gaby Nunes</b> e sou estudante da área de Ciência da Computação.
+ Me chamo <b>Gabrielly Nunes</b>, mas podem me chamar só de Gaby. Tenho 19 anos e sou estudante da área de Ciência da Computação.
 
   - 🎀 Amo coisas rosas e T.I.
 
-  - 💻 Postarei meus projetos aqui para acompanhar o meu progresso na faculdade e afins!
+  - 💻 Postarei meus projetos aqui para acompanhar o meu progresso dentro da área!
 </p>
 
 <!-- Links -->
